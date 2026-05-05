@@ -1,3 +1,5 @@
  pandas
  plotly_express
  streamlit
+
+# TODO: Ser mas especifico en las versiones de cada libreria, para evitar problemas de compatibilidad 
